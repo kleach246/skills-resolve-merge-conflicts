@@ -1,1 +1,1 @@
-This means that the changes from the main branch were merged into your my-resume branch. With a reverse merge, only the my-resume branch is updated. This allows you to test the resolved changes on your branch before you merge it into main.
+
